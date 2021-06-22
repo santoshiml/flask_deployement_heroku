@@ -27,7 +27,13 @@ if __name__=="__main__":  # __main__ we can include within a single quote or dou
 # run this main file and Now open git hub
 # Go to git create repo
 # now come on pycharm terminal and enter git init  (initialized empty git repository)
-# now add file
-#
+# now add file . indicate include all files(main.py, Procfile,req)
+# now execute git commit -m "first commit for our application"
+#   git config --global user.email "you@example.com"
+#   git config --global user.name "Your Name"
+# Now execute git commit -m "first commit for our application
+# git branch -M main  # Rename our branch name to main
+# add github link -->  git remote add origin https://github.com/santoshiml/flask_deployement_heroku.git
+# will upload the files to the git hub --->  git push -u origin main
 
 
