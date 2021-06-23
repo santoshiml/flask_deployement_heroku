@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET','POST'])
 def index():
-    return "<h1> this is santoshi Patidar Python developer...</h1>"
+    return "<h1> this is santoshi Patidar Python developer and machine learning developer...</h1>"
 
 if __name__=="__main__":  # __main__ we can include within a single quote or double quote
     app.run()
